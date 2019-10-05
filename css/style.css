@@ -1,6 +1,6 @@
 .corpo {
     margin: 0;
-    background: linear-gradient(yellow 50%,green 50%);
+    background: linear-gradient(yellow 20%,green 50%, blue 80%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
